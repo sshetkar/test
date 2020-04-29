@@ -1,0 +1,1 @@
+This is a text file named 'lorem.txt' created to document all info!
